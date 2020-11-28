@@ -31,3 +31,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Checkout my projects:
+
+### Vue3 recipes app
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-vue.svg)](https://forthebadge.com)
+
+> Explore recipes comes from themealdb by categories, country or just got the random one. Easy instructions and shopping list with export feature.
+  
+[Preview](https://www.google.com) [Code](https://www.google.com)
