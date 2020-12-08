@@ -7,7 +7,7 @@ hip-hop music and synthwave, to a small extent also history and stock
 market speculation. I love to read books. I love animals, recently I own
 a beautiful dog from a shelter in Elblag.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MateuszKawka&show_icons=true&count_private=true&theme=synthwave)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MateuszKawka&show_icons=true&count_private=true&theme=synthwave&include_all_commits=true)
 
 I started my adventure with programming almost 5 years ago with the book
 `HTML and CSS. Design and build a web site`, which I reworked in 3 days,
